@@ -22,14 +22,22 @@ SEARCH
 
 MODIFY
 ![7](https://user-images.githubusercontent.com/89737057/188069800-cbdff02c-fd54-438a-9b28-9f0849cb06b0.png)
+
+PLAYER MENU
 ![8](https://user-images.githubusercontent.com/89737057/188069900-7028a8d5-6053-4139-b34a-cae155f4b17e.png)
+ADD
 ![9](https://user-images.githubusercontent.com/89737057/188069810-3195ad98-2cce-4fea-867f-bbbeff1a6d69.png)
+SEARCH
 ![10](https://user-images.githubusercontent.com/89737057/188069814-50a4bd38-00bc-47ca-96b2-87fba24a7c50.png)
 ![11](https://user-images.githubusercontent.com/89737057/188069818-91cc56f9-6888-40e6-8210-cce6fa7b2c92.png)
+MODIFY
 ![12](https://user-images.githubusercontent.com/89737057/188069823-198e87c8-2e2a-402b-aa67-986533cfc024.png)
-![13](https://user-images.githubusercontent.com/89737057/188069935-15d36a72-b82c-45ab-b1bb-ae7cec4bceeb.png)
-![14](https://user-images.githubusercontent.com/89737057/188069942-cb5f74dd-e7c4-4f2c-a38b-c934cace04ad.png)
-![15](https://user-images.githubusercontent.com/89737057/188070050-30d8e65c-0a53-4013-9bf4-72c7888b1cbf.png)
 
+VENUE MENU
+![13](https://user-images.githubusercontent.com/89737057/188069935-15d36a72-b82c-45ab-b1bb-ae7cec4bceeb.png)
+ADD
+![14](https://user-images.githubusercontent.com/89737057/188069942-cb5f74dd-e7c4-4f2c-a38b-c934cace04ad.png)
+SEARCH
+![15](https://user-images.githubusercontent.com/89737057/188070050-30d8e65c-0a53-4013-9bf4-72c7888b1cbf.png)
 ![16](https://user-images.githubusercontent.com/89737057/188070062-cc7de8a9-8a47-4e76-ac3e-c1397173dc2c.png)
 
