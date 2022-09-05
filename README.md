@@ -6,11 +6,21 @@ USE TURBO c++ COMPILER TO RUN THIS CODE
 INTRODUCTION PAGE
 ![1](https://user-images.githubusercontent.com/89737057/188069348-7e735650-2f1c-4a97-983e-6b007922869f.png)
 
+MAIN MENU OF PROJECT WHICH HAS THREE SUB MENU FOR TEAM,PLAYER AND STADIUM STATS
 ![2](https://user-images.githubusercontent.com/89737057/188069763-9bdc91db-6b46-4cd9-953e-4a6bb0d3f61e.png)
+
+TEAM MENU
+with specified features available
 ![3](https://user-images.githubusercontent.com/89737057/188069756-d1feab95-fb75-4740-b695-a88481a10d2d.png)
+
+ADD
 ![4](https://user-images.githubusercontent.com/89737057/188069786-e4ff7b87-e29b-4695-9e5f-6efb9640c55d.png)
+
+SEARCH
 ![5](https://user-images.githubusercontent.com/89737057/188069791-df2e1ce9-5147-4a17-9678-9f779793fa68.png)
 ![6](https://user-images.githubusercontent.com/89737057/188069795-819b3265-bcec-419d-a3dc-e1f4f3ac2871.png)
+
+MODIFY
 ![7](https://user-images.githubusercontent.com/89737057/188069800-cbdff02c-fd54-438a-9b28-9f0849cb06b0.png)
 ![8](https://user-images.githubusercontent.com/89737057/188069900-7028a8d5-6053-4139-b34a-cae155f4b17e.png)
 ![9](https://user-images.githubusercontent.com/89737057/188069810-3195ad98-2cce-4fea-867f-bbbeff1a6d69.png)
